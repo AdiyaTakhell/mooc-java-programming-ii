@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/part09-Part09_01.ABC/pom.xml" />
+        <option value="$PROJECT_DIR$/part12-Part12_07.Die/pom.xml" />
+        <option value="$PROJECT_DIR$/part12-Part12_02.Pipe/pom.xml" />
+        <option value="$PROJECT_DIR$/part12-Part12_04.List/pom.xml" />
+        <option value="$PROJECT_DIR$/part13-Part13_11.Joke/pom.xml" />
+        <option value="$PROJECT_DIR$/part08-Part08_01.Cubes/pom.xml" />
+        <option value="$PROJECT_DIR$/part09-Part09_11.Herds/pom.xml" />
+        <option value="$PROJECT_DIR$/part14-Part14_06.Smiley/pom.xml" />
+        <option value="$PROJECT_DIR$/part14-Part14_08.Hurray/pom.xml" />
+        <option value="$PROJECT_DIR$/part08-Part08_10.IOweYou/pom.xml" />
+        <option value="$PROJECT_DIR$/part09-Part09_12.Animals/pom.xml" />
+        <option value="$PROJECT_DIR$/part12-Part12_01.Hideout/pom.xml" />
+        <option value="$PROJECT_DIR$/part12-Part12_05.HashMap/pom.xml" />
+        <option value="$PROJECT_DIR$/part12-Part12_06.Numbers/pom.xml" />
+        <option value="$PROJECT_DIR$/part12-Part12_08.Lottery/pom.xml" />
+        <option value="$PROJECT_DIR$/part13-Part13_10.Greeter/pom.xml" />
+        <option value="$PROJECT_DIR$/part14-Part14_07.Collage/pom.xml" />
+        <option value="$PROJECT_DIR$/part08-Part08_05.TodoList/pom.xml" />
+        <option value="$PROJECT_DIR$/part08-Part08_11.SameDate/pom.xml" />
+        <option value="$PROJECT_DIR$/part11-Part11_01.Customer/pom.xml" />
+        <option value="$PROJECT_DIR$/part13-Part13_06.Notifier/pom.xml" />
+        <option value="$PROJECT_DIR$/part14-Part14_01.Shanghai/pom.xml" />
+        <option value="$PROJECT_DIR$/part14-Part14_10.Database/pom.xml" />
+        <option value="$PROJECT_DIR$/part08-Part08_06.Nicknames/pom.xml" />
+        <option value="$PROJECT_DIR$/part09-Part09_05.TacoBoxes/pom.xml" />
+        <option value="$PROJECT_DIR$/part10-Part10_04.Divisible/pom.xml" />
+        <option value="$PROJECT_DIR$/part10-Part10_08.Weighting/pom.xml" />
+        <option value="$PROJECT_DIR$/part10-Part10_11.WageOrder/pom.xml" />
+        <option value="$PROJECT_DIR$/part13-Part13_08.UserTitle/pom.xml" />
+        <option value="$PROJECT_DIR$/part13-Part13_13.TicTacToe/pom.xml" />
+        <option value="$PROJECT_DIR$/part14-Part14_09.Asteroids/pom.xml" />
+        <option value="$PROJECT_DIR$/part08-Part08_12.HashedDate/pom.xml" />
+        <option value="$PROJECT_DIR$/part09-Part09_10.OnlineShop/pom.xml" />
+        <option value="$PROJECT_DIR$/part10-Part10_14.Literature/pom.xml" />
+        <option value="$PROJECT_DIR$/part13-Part13_04.BorderPane/pom.xml" />
+        <option value="$PROJECT_DIR$/part09-Part09_03.Warehousing/pom.xml" />
+        <option value="$PROJECT_DIR$/part12-Part12_10.MagicSquare/pom.xml" />
+        <option value="$PROJECT_DIR$/part08-Part08_07.Abbreviations/pom.xml" />
+        <option value="$PROJECT_DIR$/part10-Part10_10.BooksFromFile/pom.xml" />
+        <option value="$PROJECT_DIR$/part10-Part10_17.SortThemCards/pom.xml" />
+        <option value="$PROJECT_DIR$/part11-Part11_03.ShowAndTicket/pom.xml" />
+        <option value="$PROJECT_DIR$/part11-Part11_08.FirstPackages/pom.xml" />
+        <option value="$PROJECT_DIR$/part11-Part11_10.FlightControl/pom.xml" />
+        <option value="$PROJECT_DIR$/part12-Part12_03.SumTheseForMe/pom.xml" />
+        <option value="$PROJECT_DIR$/part13-Part13_09.MultipleViews/pom.xml" />
+        <option value="$PROJECT_DIR$/part10-Part10_06.LimitedNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/part11-Part11_02.ABookAndAPlane/pom.xml" />
+        <option value="$PROJECT_DIR$/part11-Part11_06.SaveablePerson/pom.xml" />
+        <option value="$PROJECT_DIR$/part12-Part12_09.ArrayAsAString/pom.xml" />
+        <option value="$PROJECT_DIR$/part13-Part13_02.ButtonAndLabel/pom.xml" />
+        <option value="$PROJECT_DIR$/part13-Part13_05.TextStatistics/pom.xml" />
+        <option value="$PROJECT_DIR$/part14-Part14_02.FinnishParties/pom.xml" />
+        <option value="$PROJECT_DIR$/part08-Part08_13.VehicleRegistry/pom.xml" />
+        <option value="$PROJECT_DIR$/part08-Part08_15.StorageFacility/pom.xml" />
+        <option value="$PROJECT_DIR$/part09-Part09_06.InterfaceInABox/pom.xml" />
+        <option value="$PROJECT_DIR$/part10-Part10_03.PositiveNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/part10-Part10_07.UniqueLastNames/pom.xml" />
+        <option value="$PROJECT_DIR$/part10-Part10_16.EnumAndIterator/pom.xml" />
+        <option value="$PROJECT_DIR$/part08-Part08_03.LiquidContainers/pom.xml" />
+        <option value="$PROJECT_DIR$/part08-Part08_08.PrintMeMyHashmap/pom.xml" />
+        <option value="$PROJECT_DIR$/part10-Part10_01.AverageOfNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/part11-Part11_09.TheThreePackages/pom.xml" />
+        <option value="$PROJECT_DIR$/part08-Part08_04.LiquidContainers2/pom.xml" />
+        <option value="$PROJECT_DIR$/part10-Part10_05.PrintingUserInput/pom.xml" />
+        <option value="$PROJECT_DIR$/part14-Part14_03.SavingsCalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/part14-Part14_05.CyclingStatistics/pom.xml" />
+        <option value="$PROJECT_DIR$/part10-Part10_13.LiteracyComparison/pom.xml" />
+        <option value="$PROJECT_DIR$/part10-Part10_15.RegularExpressions/pom.xml" />
+        <option value="$PROJECT_DIR$/part11-Part11_05.ThePlayerAndTheBot/pom.xml" />
+        <option value="$PROJECT_DIR$/part11-Part11_07.BiggerClassDiagram/pom.xml" />
+        <option value="$PROJECT_DIR$/part11-Part11_13.SaveableDictionary/pom.xml" />
+        <option value="$PROJECT_DIR$/part13-Part13_01.MyFirstApplication/pom.xml" />
+        <option value="$PROJECT_DIR$/part13-Part13_03.ButtonAndTextField/pom.xml" />
+        <option value="$PROJECT_DIR$/part13-Part13_12.VocabularyPractice/pom.xml" />
+        <option value="$PROJECT_DIR$/part09-Part09_02.PersonAndSubclasses/pom.xml" />
+        <option value="$PROJECT_DIR$/part10-Part10_09.ReadingFilesPerLine/pom.xml" />
+        <option value="$PROJECT_DIR$/part13-Part13_07.TextStatisticsPart2/pom.xml" />
+        <option value="$PROJECT_DIR$/part14-Part14_04.UnfairAdvertisement/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_25" default="true" project-jdk-name="25" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
